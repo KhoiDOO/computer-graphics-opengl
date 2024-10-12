@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# IDE and Text Editor
+.vscode/
+.idea/
+
+# Results of compilation
+*.ilk
+*.pdb
+
+# Cmake
+cmake-build-debug/
